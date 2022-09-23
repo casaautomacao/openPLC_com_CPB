@@ -1,0 +1,5 @@
+# HAL configuration
+# Format :
+# Board type, FQBN
+CPB Uno 8x0, arduino:avr:uno
+

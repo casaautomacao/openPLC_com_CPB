@@ -1,0 +1,7 @@
+# HAL configuration
+# Format :
+# Board type, FQBN
+
+CPB Mega,                     arduino:avr:mega
+CPB Mega mini,                     arduino:avr:mega
+
